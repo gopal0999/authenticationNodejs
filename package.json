@@ -1,0 +1,22 @@
+{
+  "name": "authenticationnodejs",
+  "version": "1.0.0",
+  "description": "Here we try to explore authentication and authorisation in node.js, express using jsonwebtoken",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gopal0999/authenticationNodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gopal0999/authenticationNodejs/issues"
+  },
+  "homepage": "https://github.com/gopal0999/authenticationNodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
